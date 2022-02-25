@@ -1,0 +1,18 @@
+.title{
+    color:#FDA145;
+}
+.user-button{
+    background:black;
+    color:white;
+    border-radius:30px;
+    border:none;
+    cursor:pointer;
+    padding:8px 20px;
+    font-size:16px;
+}
+.borders{
+    border:1px solid black;
+}
+.userlist{
+    margin:16px;
+}
